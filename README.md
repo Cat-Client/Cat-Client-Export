@@ -3,7 +3,7 @@
 Cat Client is a 1.8 PvP based Minecraft client.
 
 ## How to install:
-
+**MUST RENAME THE FILE TO BE "CatClientBeta" for it to work**
 1. Download the repo as a zip file.
 ![image](https://user-images.githubusercontent.com/70044734/155918234-54427d07-c7da-4775-813d-760d00b151c0.png)
 2. Extract the zip file and put it in the versions folder of your .minecraft folder.
